@@ -1,3 +1,3 @@
 git-one
 
-a first try fot git
+a first try for git
